@@ -1,0 +1,18 @@
+.list-forecast{
+  display: flex;
+  margin-top: 20px;
+}
+
+.item-list{
+  min-width: 100px;
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  margin-left: 12px;
+  border-radius: 8px;
+  padding: 10px 14px;
+  justify-content: space-around;
+  text-align: center;
+  min-height: 180px;
+  box-shadow: 3px 3px 2px 1px rgba(2, 112, 155, 0.438);
+}
